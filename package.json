@@ -1,0 +1,16 @@
+{
+  "name": "projeto-basico-restify",
+  "version": "1.0.0",
+  "description": "Projeto básico feito em Node.js com o framework Restify",
+  "main": "app.js",
+  "repository": "https://github.com/jacksonpereira/projeto-basico-restify.git",
+  "author": "Jackson",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./app.js"
+  },
+  "dependencies": {
+    "restify": "^8.4.0",
+    "touch": "^3.1.0"
+  }
+}
